@@ -1,4 +1,5 @@
-  "events": [
+{
+    "events": [
     {
       "id": 48984,
       "category": "Sausages",
@@ -90,3 +91,4 @@
       "organizer": "Kassulke - Carroll"
     }
   ]
+}
